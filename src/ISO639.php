@@ -139,6 +139,7 @@ class ISO639
         array('pl', 'pol', 'pol', 'pol', 'Polish', 'język polski, polszczyzna'),
         array('ps', 'pus', 'pus', 'pus', 'Pashto, Pushto', 'پښتو'),
         array('pt', 'por', 'por', 'por', 'Portuguese', 'português'),
+        array('pt-BR', '', '', '', 'Brazilian Portuguese', 'português brasileiro'),
         array('qu', 'que', 'que', 'que', 'Quechua', 'Runa Simi, Kichwa'),
         array('rm', 'roh', 'roh', 'roh', 'Romansh', 'rumantsch grischun'),
         array('rn', 'run', 'run', 'run', 'Kirundi', 'Ikirundi'),
